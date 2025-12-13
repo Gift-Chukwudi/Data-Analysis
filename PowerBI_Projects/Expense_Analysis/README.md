@@ -6,7 +6,7 @@
 **Data Source**: Udemy "Build 45 Real-World Power BI Projects for BI & Data Analysts" Course.  
 **Analytics Approach**: Descriptive, focusing on summarizing past data to identify patterns and trends.
 
-This Power BI project simulates a real-world enterprise finance analytics scenario and focuses on building an integrated financial performance and spend analysis dashboard by modeling, analyzing, and visualizing data across budget, actual spend, and forecast datasets.
+This Power BI project demonstrates a real-world descriptive finance analytics scenario by creating an integrated dashboard that summarizes and visualizes historical financial performance and spending patterns. It focuses on modeling and analyzing data across budgets, actual expenditures, and forecasts to reveal trends, variances, and key cost drivers.
 
 ## Core Skills Applied
 
