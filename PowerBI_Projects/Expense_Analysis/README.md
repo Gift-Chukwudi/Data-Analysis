@@ -41,3 +41,9 @@ To ensure consistent and accurate time-based calculations and month-to-month com
 
 ![Alt text](./Date%20Table.jpg)
 
+### 4. Data Modelling
+- My dataset consisted of three fact tables and four normalized dimension tables, which I used to create a galaxy (or fact constellation) schema.
+
+  ![Alt text](./Data%20Modelling.jpg)
+
+  - I also 
