@@ -28,3 +28,11 @@ ABC Limited (hypothetical) lacks a clear and consistent approach to tracking IT 
 
 ![Alt text](./Data%20Import.jpg)
 
+### 2. Data Cleaning
+Since my dataset was not clean, I applied several preprocessing steps, including:
+- Setting the first row as headers.
+- Removing irrelevant columns.
+- Updating data types where necessary.
+
+![Alt text](./Data%20Cleaning.jpg)
+
