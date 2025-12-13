@@ -63,5 +63,7 @@ To ensure consistent and accurate time-based calculations and month-to-month com
 
 ![Alt text](./Color%20Formatting.jpg)
 
+![Alt text](./Color%20Formatting.jpg)
+
 
 
