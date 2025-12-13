@@ -36,3 +36,8 @@ Since my dataset was not clean, I applied several preprocessing steps, including
 
 ![Alt text](./Data%20Cleaning.jpg)
 
+### 3. Date Table Creation
+To ensure consistent and accurate time-based calculations and month-to-month comparisons, I created a date table that included Date, Year, Month, and MonthNumber, tailored to the level of detail required for the analysis.
+
+![Alt text](./Date%20Table.jpg)
+
