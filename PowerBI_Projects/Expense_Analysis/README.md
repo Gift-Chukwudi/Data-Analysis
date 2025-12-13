@@ -3,7 +3,8 @@
 
 **Project Title**: Expense Management Analysis  
 **Platform Used**: Microsoft Power BI  
-**Data Source**: Udemy "Build 45 Real-World Power BI Projects for BI & Data Analysts" Course.
+**Data Source**: Udemy "Build 45 Real-World Power BI Projects for BI & Data Analysts" Course.  
+**Analytics Approach**: Descriptive, focusing on summarizing past data to identify patterns and trends.
 
 This Power BI project simulates a real-world enterprise finance analytics scenario and focuses on building an integrated financial performance and spend analysis dashboard by modeling, analyzing, and visualizing data across budget, actual spend, and forecast datasets.
 
@@ -17,7 +18,7 @@ This Power BI project simulates a real-world enterprise finance analytics scenar
 
 ## Problem Statement
 
-ABC Limited (hypothetical) lacks a clear and consistent approach to tracking IT departmental expenses across regions against approved budgets and estimates, limiting visibility into spending trends, key cost drivers, and potential cost overruns.
+ABC Limited lacks a unified system for analyzing historical IT departmental expenses across regions, making it difficult to clearly visualize spending patterns, identify major cost drivers, and understand trends in relation to approved budgets and estimates.
 
 ## Project Structure
 
@@ -46,4 +47,15 @@ To ensure consistent and accurate time-based calculations and month-to-month com
 
   ![Alt text](./Data%20Modelling.jpg)
 
-  - I also 
+  - I created 9 measures to ensure accurate values in the visuals.
+**a. Average Spend**
+
+![Alt text](./Average%20Spend.jpg)
+
+**b. vs. Last Month:** I created this measure to effectively display the percentage change in values on the card compared to the previous month.
+
+![Alt text](./vs%20Last%20Month.jpg)
+
+
+
+
