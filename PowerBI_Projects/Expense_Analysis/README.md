@@ -49,7 +49,7 @@ To ensure consistent and accurate time-based calculations and month-to-month com
 
   - I created 9 measures to ensure accurate values in the visuals.
 
-a. Average Spend
+**a. Average Spend**
 
 ![Alt text](./Average%20Spend.jpg)
 
