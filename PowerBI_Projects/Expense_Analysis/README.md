@@ -18,7 +18,7 @@ This Power BI project simulates a real-world enterprise finance analytics scenar
 
 ## Problem Statement
 
-ABC Limited lacks a unified system for analyzing historical IT departmental expenses across regions, making it difficult to clearly visualize spending patterns, identify major cost drivers, and understand trends in relation to approved budgets and estimates.
+ABC Limited (hypothetical) lacks a unified system for analyzing historical IT departmental expenses across regions, making it difficult to clearly visualize spending patterns, identify major cost drivers, and understand trends in relation to approved budgets and estimates.
 
 ## Project Structure
 
@@ -53,9 +53,14 @@ To ensure consistent and accurate time-based calculations and month-to-month com
 ![Alt text](./Average%20Spend.jpg)
 
 **b. vs. Last Month:** I created this measure to effectively display the percentage change in values on the card compared to the previous month.
+**Note:** *I also created this measure for budget and estimate card visuals.*
 
 ![Alt text](./vs%20Last%20Month.jpg)
 
+**c. vs. Last Month %:** I created this measure to apply conditional formatting to the previous measure, displaying the percentage in green for positive values and red for negative values.
+**Note:** *I also created this measure for budget and estimate card visuals.*
+
+![Alt text](./Color%20Formatting.jpg)
 
 
 
