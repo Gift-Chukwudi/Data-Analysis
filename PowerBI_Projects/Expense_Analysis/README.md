@@ -12,9 +12,11 @@ This Power BI project demonstrates a real-world descriptive finance analytics sc
 
 1. Data Cleaning.
 2. Data Modeling (galaxy).
-3. Interactive Filters & Slicers.
-4. Data Visualization & Dashboard Design.
-5. Trend Analysis.
+3. DAX Formulars.
+4. Measures creation.
+5. Interactive Filters & Slicers.
+6. Data Visualization & Dashboard Design.
+7. Trend Analysis.
 
 ## Problem Statement
 
