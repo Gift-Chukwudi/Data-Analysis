@@ -26,3 +26,5 @@ ABC Limited (hypothetical) lacks a clear and consistent approach to tracking IT 
 - The Actuals fact table was loaded using the Folder connector.
 - All dimension tables were imported using the Excel connector.
 
+![Alt text](DataImport.jpg)
+
