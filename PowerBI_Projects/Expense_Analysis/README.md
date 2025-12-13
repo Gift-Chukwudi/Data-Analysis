@@ -11,7 +11,7 @@ This Power BI project simulates a real-world enterprise finance analytics scenar
 ## Core Skills Applied
 
 1. Data Cleaning.
-2. Data Modeling (Star schema design).
+2. Data Modeling (galaxy).
 3. Interactive Filters & Slicers.
 4. Data Visualization & Dashboard Design.
 5. Trend Analysis.
@@ -48,7 +48,7 @@ To ensure consistent and accurate time-based calculations and month-to-month com
   ![Alt text](./Data%20Modelling.jpg)
 
   - I created 9 measures to ensure accurate values in the visuals.
-  **a. Average Spend**
+**a. Average Spend**
 
 ![Alt text](./Average%20Spend.jpg)
 
