@@ -63,7 +63,18 @@ To ensure consistent and accurate time-based calculations and month-to-month com
 
 ![Alt text](./Color%20Formatting.jpg)
 
-![Alt text](./Color%20Formatting.jpg)
+**d. Average Budget**
+
+![Alt text](./Average%20Budget.jpg)
+
+**e. Average Estimate**
+
+![Alt text](./Average%20Estimate.jpg)
+
+### 5. Data Analysis & Visualization
+
+
+
 
 
 
