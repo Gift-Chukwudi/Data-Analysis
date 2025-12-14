@@ -79,11 +79,11 @@ I used purple and pale lilac grey for the background, with black and white for t
 I used a variety of visuals to highlight key insights from the data, **including:**  
 
 #### a. Card Visuals
-Displaying the total number of departments alongside the total estimated amount, budgeted amount, and actual spend.
+Displaying the total number of departments alongside the total estimated amount, budgeted amount, and actual spend including percentage comparisons to the previous month.
 
 ![Alt text](./Card%20Visuals.jpg)
 
-
+- 
 
 
 
