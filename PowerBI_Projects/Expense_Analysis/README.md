@@ -60,7 +60,7 @@ To ensure consistent and accurate time-based calculations and month-to-month com
 
 ![Alt text](./vs%20Last%20Month.jpg)
 
-**c. vs. Last Month %:** I created this measure to apply conditional formatting to the previous measure, displaying the percentage in green for positive values and red for negative values.
+**c. vs. Last Month %:** I created this measure to apply conditional formatting to the previous measure, displaying the percentage in green for positive values and red for negative values.  
 **Note:** *I also created this measure for budget and estimate card visuals.*
 
 ![Alt text](./Color%20Formatting.jpg)
@@ -75,7 +75,7 @@ To ensure consistent and accurate time-based calculations and month-to-month com
 
 **f. Unique Department Count**
 
-![Alt text](./Unique%20Departments)
+![Alt text](./Unique%20Departments.jpg)
 
 ### 5. Data Analysis & Visualization
 I used purple and pale lilac grey for the background, with black and white for the text, to create a clean, professional look while ensuring strong contrast and readability. I also made use of clear, intuitive visuals so that the dashboard would be easily understood by anyone who viewed it, regardless of their level of expertise.
