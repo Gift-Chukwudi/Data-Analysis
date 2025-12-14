@@ -116,4 +116,6 @@ I used the KPI Chart to showcase how the actual spend compared to the budget eac
 - November: Amount spent was more by 7.8%.
 - December: Amount spent was more by 36.36%. Had the most spend on External Labor.
 
+#### d. Donut Chart
+I used the Donut Chart to visualize the proportion of total spend across different cost groups, including Labour, Amortization, Hardware & Software, Shared Services, Capex, and Miscellaneous (Others).
 
