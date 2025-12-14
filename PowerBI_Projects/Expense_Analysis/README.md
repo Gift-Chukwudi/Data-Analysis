@@ -74,6 +74,12 @@ To ensure consistent and accurate time-based calculations and month-to-month com
 ![Alt text](./Average%20Estimate.jpg)
 
 ### 5. Data Analysis & Visualization
+I used purple and pale lilac grey for the background, with black and white for the text, to create a clean, professional look while ensuring strong contrast and readability. I also made use of clear, intuitive visuals so that the dashboard would be easily understood by anyone who viewed it, regardless of their level of expertise.
+
+I used a variety of visuals to highlight key insights from the data, **including:**  
+
+#### a. Card Visuals
+
 
 
 
