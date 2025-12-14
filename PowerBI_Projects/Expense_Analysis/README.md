@@ -149,10 +149,10 @@ I used a column chart to showcase total spend across the year.
 - November: Increased to $21 million.
 - December: Peaked at $28 million.
 
-  #### g. Area Chart
-  I used an Area Chart to visualize the estimated/forecasted amounts compared to actual spend over the course of the year, highlighting trends and variances over time.
+#### g. Area Chart
+I used an Area Chart to visualize the estimated/forecasted amounts compared to actual spend over the course of the year, highlighting trends and variances over time.
 
-  ![Alt text](./Area%20Chart.jpg)
+![Alt text](./Area%20Chart.jpg)
 
   -
 
