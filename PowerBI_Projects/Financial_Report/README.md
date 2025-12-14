@@ -1,4 +1,4 @@
-# Financial Reporting PowerBI Project
+# Financial Report PowerBI Project
 ## Project Overview
 
 **Project Title**: Financial Report
@@ -12,7 +12,7 @@ This Power BI project showcases a real-world descriptive finance reporting scena
 
 1. Data Cleaning.
 2. Data Modeling (galaxy).
-3. DAX Formulars.
+3. DAX.
 4. Measures creation.
 5. Interactive Filters & Slicers.
 6. Data Visualization & Dashboard Design.
@@ -154,6 +154,15 @@ I used an Area Chart to visualize the estimated/forecasted amounts compared to a
 
 ![Alt text](./Area%20Chart.jpg)
 
-  -
+- From January to June, actual spend closely matched the estimated or forecasted amounts.
+- From July to November, the estimates exceeded actual spend.
+- While in December, spend surged 30.40% above the estimate.
+
+#### h. Dashboard
+
+![Alt text](./Dashboard.jpg)
+
+### 6. Conclusion
+
 
   
