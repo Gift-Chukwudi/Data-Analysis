@@ -127,4 +127,9 @@ I used the Donut Chart to visualize the proportion of total spend across differe
 - Miscellaneous costs contributed 5.6%.
 - Shared Services represented the smallest portion at 0.17%.
 
+#### e. Funnel Chart
+I used the funnel chart to highlight the Top 5 actual cost drivers across all cost groups.
 
+![Alt text](./Funnel%20Chart.jpg)
+
+-
