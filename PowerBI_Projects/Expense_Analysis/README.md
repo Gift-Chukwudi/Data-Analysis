@@ -51,7 +51,7 @@ To ensure consistent and accurate time-based calculations and month-to-month com
 
   - I created 9 measures to ensure accurate values in the visuals.
 
-**a. Average Spend**
+**a. Total Spend**
 
 ![Alt text](./Average%20Spend.jpg)
 
@@ -65,11 +65,11 @@ To ensure consistent and accurate time-based calculations and month-to-month com
 
 ![Alt text](./Color%20Formatting.jpg)
 
-**d. Average Budget**
+**d. Total Budget**
 
 ![Alt text](./Average%20Budget.jpg)
 
-**e. Average Estimate**
+**e. Total Estimate**
 
 ![Alt text](./Average%20Estimate.jpg)
 
