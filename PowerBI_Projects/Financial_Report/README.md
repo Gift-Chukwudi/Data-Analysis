@@ -32,7 +32,7 @@ ABC Limited (hypothetical) lacks a unified system for analyzing historical IT de
 ![Alt text](./Data%20Import.jpg)
 
 ### 2. Data Cleaning
-Since my dataset was not clean, I applied several preprocessing steps, including:
+Since my dataset was partially clean, I applied just a few preprocessing steps to ensure consistency and accuracy, including:
 - Setting the first row as headers.
 - Removing irrelevant columns.
 - Updating data types where necessary.
