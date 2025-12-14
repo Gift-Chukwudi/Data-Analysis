@@ -132,4 +132,28 @@ I used the funnel chart to highlight the Top 5 actual cost drivers across all co
 
 ![Alt text](./Funnel%20Chart.jpg)
 
--
+- The largest portion of spend was on External Labour, totaling $78,000,000 (30.29% of the annual spend), while the smallest portion was on Software.
+
+#### f. Monthly Spend
+I used a column chart to showcase total spend across the year.
+
+![Alt text](./Column%20Chart.jpg)
+
+- January: Spend was at its lowest at $17 million.
+- February – March: Increased steadily, reaching $21 million by March.
+- April: Dropped slightly to $19.9 million.
+- May – July: Rose again and stabilized around $21 million.
+- August: Decreased to $20 million.
+- September: Rose back to $21 million.
+- October: Dropped to $20 million.
+- November: Increased to $21 million.
+- December: Peaked at $28 million.
+
+  #### g. Area Chart
+  I used an Area Chart to visualize the estimated/forecasted amounts compared to actual spend over the course of the year, highlighting trends and variances over time.
+
+  ![Alt text](./Area%20Chart.jpg)
+
+  -
+
+  
