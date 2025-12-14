@@ -53,7 +53,7 @@ To ensure consistent and accurate time-based calculations and month-to-month com
 
 **a. Total Spend**
 
-![Alt text](./Average%20Spend.jpg)
+![Alt text](./Total%20Spend.jpg)
 
 **b. vs. Last Month:** I created this measure to effectively display the percentage change in values on the card compared to the previous month.
 **Note:** *I also created this measure for budget and estimate card visuals.*
@@ -67,11 +67,11 @@ To ensure consistent and accurate time-based calculations and month-to-month com
 
 **d. Total Budget**
 
-![Alt text](./Average%20Budget.jpg)
+![Alt text](./Total%20Budget.jpg)
 
 **e. Total Estimate**
 
-![Alt text](./Average%20Estimate.jpg)
+![Alt text](./Total%20Estimate.jpg)
 
 ### 5. Data Analysis & Visualization
 I used purple and pale lilac grey for the background, with black and white for the text, to create a clean, professional look while ensuring strong contrast and readability. I also made use of clear, intuitive visuals so that the dashboard would be easily understood by anyone who viewed it, regardless of their level of expertise.
