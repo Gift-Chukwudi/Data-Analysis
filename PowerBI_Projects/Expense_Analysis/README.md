@@ -117,5 +117,14 @@ I used the KPI Chart to showcase how the actual spend compared to the budget eac
 - December: Amount spent was more by 36.36%. Had the most spend on External Labor.
 
 #### d. Donut Chart
-I used the Donut Chart to visualize the proportion of total spend across different cost groups, including Labour, Amortization, Hardware & Software, Shared Services, Capex, and Miscellaneous (Others).
+I used the Donut Chart to visualize the proportion of total spend across different cost groups, including Labour, Amortization, Hardware & Software, Shared Services, and Miscellaneous (Others).
+
+![Alt text](./Donut%20Chart.jpg)
+
+- Labour represented the largest portion of spend at 52.58%.
+- Amortization accounted for 22.89%, indicating a significant share of IT costs is tied to existing software licenses and intangible assets rather than direct operational expenses.
+- Hardware & Software purchases made up 18.77% of total spend for the year.
+- Miscellaneous costs contributed 5.6%.
+- Shared Services represented the smallest portion at 0.17%.
+
 
