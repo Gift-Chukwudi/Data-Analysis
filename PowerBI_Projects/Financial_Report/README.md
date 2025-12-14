@@ -162,7 +162,12 @@ I used an Area Chart to visualize the estimated/forecasted amounts compared to a
 
 ![Alt text](./Dashboard.jpg)
 
-### 6. Conclusion
+### 6. Recommendations
+- **Monitor External Labour Costs:** Since External Labour accounted for the largest share of spend (30.29%), consider reviewing contracts, optimizing staffing levels, or exploring cost-saving alternatives (like training internal staff).
+- **Review Amortization Expenses:** With Amortization at 22.89% of total spend, evaluate software licenses and intangible assets to ensure maximum utilization and alignment with departmental needs.
+- **Align Budget and Forecasts:** Estimates exceeded actual spend from July to November, suggesting opportunities to refine forecasting accuracy and better allocate resources.
+- **Control Monthly Spend Peaks:** December spend surged 30.40% above estimates, indicating potential seasonal or project-driven spikes that should be anticipated in future budgets.
+- **Prioritize Cost Drivers:** Focus on top cost categories like Labour, Hardware & Software, and Shared Services to identify areas for efficiency improvements.
 
 
   
