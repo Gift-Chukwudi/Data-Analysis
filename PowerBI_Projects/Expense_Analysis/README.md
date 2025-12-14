@@ -4,9 +4,9 @@
 **Project Title**: Expense Management Analysis  
 **Platform Used**: Microsoft Power BI  
 **Data Source**: Udemy "Build 45 Real-World Power BI Projects for BI & Data Analysts" Course.  
-**Analytics Approach**: Descriptive, focusing on summarizing past data to identify patterns and trends.
+**Analytics Approach**: Descriptive, focusing on summarizing and reporting on past data.
 
-This Power BI project demonstrates a real-world descriptive finance analytics scenario by creating an integrated dashboard that summarizes and visualizes historical financial performance and spending patterns. It focuses on modeling and analyzing data across budgets, actual expenditures, and forecasts to reveal trends, variances, and key cost drivers.
+This Power BI project showcases a real-world descriptive finance reporting scenario by creating an integrated dashboard that summarizes historical financial performance and spending patterns. It focuses on reporting and visualizing budgets, actual expenditures, and forecasts to highlight trends, variances, and key cost drivers.
 
 ## Core Skills Applied
 
@@ -88,14 +88,32 @@ I created slicers for months, region and departments within the IT business grou
 ![Alt text](./Slicers.jpg)
 
 #### b. Card Visuals
-Displaying the total number of unique departments within the IT business group alongside the total estimated amount, budgeted amount, and actual spend including percentage comparisons to the previous month.
+I displayed the total number of unique departments within the IT business group alongside the total estimated amount, budgeted amount, and actual spend including percentage comparisons to the previous month.
 
 ![Alt text](./Card%20Visuals.jpg)
 
-- Total amount estimated for the IT business group was $261,100,000
-- Total amount budget was $257,900,000.
-- Total amount spent was $257,500,000
+- Total estimated amount: $261,100,000.
+- Total budgeted amount: $257,900,000.
+- Total actual spend: $257,500,000.
+- Budget vs. spend: Budget exceeded actual spend by 0.16%.
+- Estimate vs. spend: Estimate exceeded actual spend by 1.40%
 
+#### c. KPI Chart
+I used the KPI Chart to showcase how the actual spend compared to the budget each month, highlighting whether it met, exceeded, or fell below the target.
 
+![Alt text](./KPI%20Chart.jpg)
+
+- January: Amount spent was less by 30.25%.
+- February: Amount spent was less by 6.6%.
+- March: Amount spent was less by 2.14%.
+- April: Amount spent was less by 8.91%.
+- May: Amount spent was more by 5.78%.
+- June: Amount spent was less by 0.84%.
+- July: Amount spent was less by 1.19%.
+- August: Amount spent was more by 1.07%.
+- September: Amount spent was more by 4.36%.
+- October: Amount spent was more by 0.7%.
+- November: Amount spent was more by 7.8%.
+- December: Amount spent was more by 36.36%. Had the most spend on External Labor.
 
 
