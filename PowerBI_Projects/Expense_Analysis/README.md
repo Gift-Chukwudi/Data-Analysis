@@ -82,12 +82,19 @@ I used purple and pale lilac grey for the background, with black and white for t
 
 I used a variety of visuals to highlight key insights from the data, **including:**  
 
-#### a. Card Visuals
-Displaying the total number of departments alongside the total estimated amount, budgeted amount, and actual spend including percentage comparisons to the previous month.
+#### a. Slicers
+I created slicers for months, region and departments within the IT business group.
+
+![Alt text](./Slicers.jpg)
+
+#### b. Card Visuals
+Displaying the total number of unique departments within the IT business group alongside the total estimated amount, budgeted amount, and actual spend including percentage comparisons to the previous month.
 
 ![Alt text](./Card%20Visuals.jpg)
 
-- 
+- Total amount estimated for the IT business group was $261,100,000
+- Total amount budget was $257,900,000.
+- Total amount spent was $257,500,000
 
 
 
