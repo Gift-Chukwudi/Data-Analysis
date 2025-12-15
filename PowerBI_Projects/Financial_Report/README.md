@@ -1,7 +1,7 @@
 # Financial Report PowerBI Project
 ## Project Overview
 
-**Project Title**: Financial Report
+**Project Title**: Financial Report  
 **Platform Used**: Microsoft Power BI  
 **Data Source**: Udemy "Build 45 Real-World Power BI Projects for BI & Data Analysts" Course.  
 **Analytics Approach**: Descriptive, focusing on summarizing and reporting on past data.
