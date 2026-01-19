@@ -17,10 +17,10 @@ This Excel project integrates descriptive analytics, scenario‑based modeling, 
 
 ## Project Structure
 
-### Data Import  
+### 1. Data Import  
 - Connected to the original data source and loaded the financials table into Power Query for transformation.
 
-### Data Cleaning
+### 2. Data Cleaning
 I applied several pre‑processing steps to ensure data accuracy and consistency, including:  
 - Renaming and standardizing column names.
 - Applying correct data types (e.g., Date, Text, Whole Number, Decimal Number) to support proper aggregation, calculations, and sorting.
@@ -28,4 +28,16 @@ I applied several pre‑processing steps to ensure data accuracy and consistency
 - Adding custom transformation columns (such as Month Number, Month Name, and Year) to enable easier grouping, filtering, PivotTable analysis, and forecasting.
 - Replacing inconsistent values by correcting variations in product names, fixing formatting issues, and standardizing country and date formats.
 - Validating the dataset using the Column Quality and Column Profile features across all 700 rows.
+
+### 3. Pivot Tables & Charts
+After cleaning the dataset, I created multiple Excel PivotTables to summarize and analyze performance metrics such as:  
+- Total Net Sales
+- Total Profit
+- Profit Margin
+- Units Sold
+- Profit by Segment
+- Units Sold by Country
+- Cost of Goods Sold (COGS) vs Net Sales Over Time
+This structured pivot model ensured reliable, dynamic reporting throughout the dashboard and the pivot tables served as the data source for the KPI cards, line, bar and column charts.
+
 
