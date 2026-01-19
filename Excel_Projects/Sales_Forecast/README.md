@@ -18,6 +18,8 @@ This Excel project integrates descriptive analytics, scenario‑based modeling, 
 ## Project Structure
 
 ### Data Import  
-- The financials table was imported via text/csv
+- Connected to the original data source and loaded the financials table into Power Query for transformation.
 
+### Data Cleaning
+-
 
