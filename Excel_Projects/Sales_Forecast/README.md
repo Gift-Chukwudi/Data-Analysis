@@ -8,3 +8,16 @@
 
 This Excel project integrates descriptive analytics, scenario‑based modeling, and predictive forecasting to provide a complete view of business performance. It summarizes historical trends, simulates the impact of price changes through What‑If analysis, and projects future outcomes using Excel‑based forecasting models.
 
+## Core Skills Applied  
+
+1. Data cleaning.
+2. Pivot tables and charts.
+3. Interactive slicers.
+4. Data Visualization & Dashboard Design.
+
+## Project Structure
+
+### Data Import  
+- The financials table was imported via text/csv
+
+
