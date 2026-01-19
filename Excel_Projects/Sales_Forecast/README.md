@@ -47,7 +47,7 @@ To enhance user interactivity, I added slicers for:
 - Product
 - Country
 
-- These slicers allow users to filter all connected pivot tables and visuals at once, enabling quick insights and ad‑hoc exploration.
+These slicers allow users to filter all connected pivot tables and visuals at once, enabling quick insights and ad‑hoc exploration.
 
 ### 5. Data Visualization & Dashboard Design
 
