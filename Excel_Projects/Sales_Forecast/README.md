@@ -40,4 +40,14 @@ After cleaning the dataset, I created multiple Excel PivotTables to summarize an
 - Cost of Goods Sold (COGS) vs Net Sales Over Time
 This structured pivot model ensured reliable, dynamic reporting throughout the dashboard and the pivot tables served as the data source for the KPI cards, line, bar and column charts.
 
+### 4. Interactive Slicers
+To enhance user interactivity, I added slicers for:  
+- Timeline: Month & Year
+- Product
+- Country
+These slicers allow users to filter all connected pivot tables and visuals at once, enabling quick insights and ad‑hoc exploration.
+
+### 5. Data Visualization & Dashboard Design
+
+
 
