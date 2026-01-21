@@ -35,6 +35,9 @@ After cleaning the dataset, I created multiple Excel PivotTables to summarize an
 - Total Profit
 - Profit Margin
 - Units Sold
+- Country vs. Discount Band
+- Segment vs. Discount Band
+- Product vs. Discount Band
 - Profit by Segment
 - Units Sold by Country
 - Cost of Goods Sold (COGS) vs Net Sales Over Time
@@ -63,7 +66,13 @@ These slicers allow users to filter all connected pivot tables and visuals at on
 **ii. Column Chart:** Used a Column Chart to showcase the number of units sold per country.  
 
 
-- 
+- Canada recorded the highest number of units sold, totaling 247,429.
+- France followed closely with 240,931 units sold.
+- The United States ranked next with 232,628 units.
+- Mexico recorded 203,325 units sold.
+- Germany had the lowest sales volume at 201,494 units.
+
+iii.
 
 
 
