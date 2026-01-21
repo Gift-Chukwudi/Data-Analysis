@@ -72,7 +72,10 @@ These slicers allow users to filter all connected pivot tables and visuals at on
 - Mexico recorded 203,325 units sold.
 - Germany had the lowest sales volume at 201,494 units.
 
-iii.
+**iii. Bar Chart:** Used a Bar Chart to compare profit amounts across segments.  
+
+
+- 
 
 
 
