@@ -52,13 +52,18 @@ These slicers allow users to filter all connected pivot tables and visuals at on
 ### 5. Data Visualization & Dashboard Design
 
 #### a. Descriptive Analysis    
-**i. KPI Cards:** Designed KPI cards to highlight key metrics, including Total Net Sales, Total Profit, Profit Margin, and Units Sold.   
+**i. Card Visuals:** Designed card visuals to highlight key metrics, including Total Net Sales, Total Profit, Profit Margin, and Units Sold.   
 
 
-- Net sales were approximately $119M.
-- Profit totaled $17M.
+- Total Net sales was $118.73 M.
+- Profit totaled $16.89 M.
 - Total units sold over the period reached about 1.13M.
 - Profit margin stood at approximately 14.2%
+
+**ii. Column Chart:** Used a Column Chart to showcase the number of units sold per country.  
+
+
+- 
 
 
 
