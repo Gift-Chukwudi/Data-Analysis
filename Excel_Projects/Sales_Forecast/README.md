@@ -51,5 +51,8 @@ These slicers allow users to filter all connected pivot tables and visuals at on
 
 ### 5. Data Visualization & Dashboard Design
 
+#### a. Descriptive Analysis    
+- KPI Cards: Designed KPI cards to highlight key metrics, including Total Net Sales, Total Profit, Profit Margin, and Units Sold.
+
 
 
