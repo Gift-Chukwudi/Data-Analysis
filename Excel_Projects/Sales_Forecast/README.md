@@ -33,7 +33,7 @@ I applied several pre‑processing steps to ensure data accuracy and consistency
 After cleaning the dataset, I created multiple Excel PivotTables to summarize and analyze performance metrics such as:  
 - Total Net Sales
 - Total Profit
-- Profit Margin
+- Total Revenue
 - Units Sold
 - Country vs. Discount Band
 - Segment vs. Discount Band
@@ -44,8 +44,8 @@ After cleaning the dataset, I created multiple Excel PivotTables to summarize an
 
 This structured pivot model ensured reliable, dynamic reporting throughout the dashboard and the pivot tables served as the data source for the KPI cards, line, bar and column charts.
 
-### 4. Interactive Slicers
-To enhance user interactivity, I added slicers for:  
+### 4. Interactive Timeline & Slicers
+To enhance user interactivity, I added a Timeline and slicers for:  
 - Timeline: Month & Year
 - Product
 - Country
@@ -61,7 +61,7 @@ These slicers allow users to filter all connected pivot tables and visuals at on
 - Total Net sales was $118.73 M.
 - Profit totaled $16.89 M.
 - Total units sold over the period reached about 1.13M.
-- Profit margin stood at approximately 14.2%
+- Total revenue stood at approximately $127.93 M.
 
 **ii. Column Chart:** Used a Column Chart to showcase the number of units sold per country.  
 
@@ -104,6 +104,42 @@ These slicers allow users to filter all connected pivot tables and visuals at on
 - The model anticipates moderate profit growth, with alternating rises and dips that mirror past seasonal patterns.
 - The forecast range (roughly ±$600K to ±$700K around each point) captures normal historical fluctuations.
 - Dec‑2014’s unusually high profit influences the upward forecast trend into early 2015.
+
+#### c. Scenario Analysis (One-Variable Data Table)  
+
+**i. Setup**
+- **Base inputs:** Avg Price per product and current Profit.
+- **Scenario driver:** Price Change (%) applied to each product individually.
+- **Scenarios tested:** −5%, −2%, +2%, +3%, +5%.
+- **Output:** Profit at each price change level (one‑variable Data Table).
+
+**ii. Insights** 
+- Profit rises monotonically with price across all products; cuts materially reduce profit.
+- Most price‑sensitive: Velo and Carretera (~±41–43% swing across −5%…+5%).
+- Paseo shows the largest profit swing ($3.6M range).
+- A +2% price lift adds roughly +15–17% profit across products (Amarilla +13.5%, Carretera +16.4%, Montana +15.7%, Paseo +14.9%, Velo +17.2%, VTT +14.5%).
+- With same demand, +2% to +3% price increases appear high‑leverage, while even small price cuts reduces profit.
+
+d. Dashboard  
+
+
+### 6. Recommendations  
+
+**i. Customer‑Focused Recommendations**
+- **Optimize Discounts for Customer Segments:** Customers in the Government, Small Business, and Channel Partner segments frequently receive Medium/High discounts. Review discount justification and tailor offers based on actual value, not habit. Reduce unnecessary discounting for Enterprise customers where profit is negative. Provide value‑added services instead of price reductions.
+- **Leverage Seasonal Demand:** Since customers purchase significantly more in October and December, ramp up customer engagement through early seasonal campaigns, loyalty rewards, and bundles.
+- **Target High‑Value Countries:** Customers in Canada, France, and the USA have high units sold. Expand marketing investment here to deepen retention and grow share. For lower‑volume regions like Germany, explore product preferences or pricing barriers through customer surveys or targeted research.
+
+
+**ii. Business‑Focused Recommendations**  
+- **Improve Pricing Strategy for Higher Profitability:** A +2% to +3% price increase yields meaningful profit gains across all products, with limited downside. Avoid price cuts unless strategically necessary—profit declines sharply even at −2%.
+- **Shift Resources Toward High‑Performing Products:** Paseo delivers the highest profit lift and largest customer base. Increase production, inventory, and promotional support to maximize returns.
+- **Rationalize Discount Policies:** Discount bands are highly skewed toward Medium/High in most segments and countries. Establish discount thresholds. Ensure large discounts are tied to volume commitments or strategic deals.
+- **Investigate Segment Performance:** The Enterprise segment shows a net loss despite substantial sales volume. Review contract terms, cost structure, and discount policies to enhance performance.
+
+
+
+
 
 
 
