@@ -72,7 +72,9 @@ These slicers allow users to filter all connected pivot tables and visuals at on
 - Mexico recorded 203,325 units sold.
 - Germany had the lowest sales volume at 201,494 units.
 
-**iii. Bar Chart:** Used a Bar Chart to compare profit amounts across segments.  
+**iii. Bar Chart:** Used a Bar Chart to compare profit amounts across segments.    
+
+![Alt text](./Profit_By_Segment%20Bar_Chart.jpg)
 
 - The Government segment recorded the highest profit at $11,388,173.
 - This was followed by Small Business, with a profit of $4,143,169.
@@ -80,12 +82,16 @@ These slicers allow users to filter all connected pivot tables and visuals at on
 - The Midmarket segment recorded a profit of $660,103.
 - In contrast, the Enterprise segment incurred a loss of $614,546.
 
-**iv. Line Chart:** Used a line chart to compare COGs and Net Sales over time.  
+**iv. Line Chart:** Used a line chart to compare COGs and Net Sales over time.   
+
+![Alt text](./Line_Chart.jpg)
 
 - In 2013, net sales totaled $26.42 million, with COGS of $22.54 million, resulting in a gross profit of $3.88 million. The strongest performance occurred in October, which recorded $9.30 million in sales and $1.66 million in Profit.
 - In 2014, net sales increased significantly to $92.31 million, while COGS amounted to $79.30 million, generating a gross profit of $13.02 million. Sales peaked in October ($12.38 million) and December ($12.00 million). Notably, December also delivered the best gross profit, at approximately $2.03 million.
 
-**v. Bar Chart (Discounts):** Used bar charts to compare discount bands used across Countries, Products and Segments.  
+**v. Bar Chart (Discounts):** Used bar charts to compare discount bands used across Countries, Products and Segments.   
+
+![Alt text](./Discounts.jpg)
 
 - **Country vs. Discount Band:** Government dominates discount volume overall, with the highest counts in Medium (119) and High (104) discount bands. Channel Partners lean toward High (35) and Medium (30) discounts. Enterprise shows a strong Low discount pattern (36), with fewer “None” cases (6). Midmarket is balanced, but High discounts (41) are the most common. Small Business has the smallest number of “None” discounts (4), with spending concentrated in Medium (40) and High (32) bands.
 - **Segment vs. Discount Band:** Government dominates discount volume overall, with the highest counts in Medium (119) and High (104) discount bands. Channel Partners lean toward High (35) and Medium (30) discounts. Enterprise shows a strong Low discount pattern (36), with fewer “None” cases (6). Midmarket is balanced, but High discounts (41) are the most common. Small Business has the smallest number of “None” discounts (4), with spending concentrated in Medium (40) and High (32) bands.
@@ -99,11 +105,15 @@ These slicers allow users to filter all connected pivot tables and visuals at on
 - The model projects stable growth into mid‑2015, with monthly sales hovering around $9.5M–$10.5M under the baseline scenario.
 - Seasonal highs (like October/December) are visible in the history and implicitly influence the rising baseline.
 
+ ![Alt text](./Sales_Forecast.jpg)
+
 **ii. Line Chart (Profit Forecast):** Used a line Chart to provide a hypothetical profit forecast across 6 months.  
 
 - The model anticipates moderate profit growth, with alternating rises and dips that mirror past seasonal patterns.
 - The forecast range (roughly ±$600K to ±$700K around each point) captures normal historical fluctuations.
 - Dec‑2014’s unusually high profit influences the upward forecast trend into early 2015.
+
+![Alt text](./Profit_Forecast.jpg)
 
 #### c. Scenario Analysis (One-Variable Data Table)    
 
