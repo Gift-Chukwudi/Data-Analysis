@@ -132,7 +132,7 @@ d. Dashboard
 
 
 **ii. Business‑Focused Recommendations**  
-- **Improve Pricing Strategy for Higher Profitability:** A +2% to +3% price increase yields meaningful profit gains across all products, with limited downside. Avoid price cuts unless strategically necessary—profit declines sharply even at −2%.
+- **Improve Pricing Strategy for Higher Profitability:** A +2% to +3% price increase yields meaningful profit gains across all products, with limited downside. Avoid price cuts unless strategically necessary because profit declines sharply even at −2%.
 - **Shift Resources Toward High‑Performing Products:** Paseo delivers the highest profit lift and largest customer base. Increase production, inventory, and promotional support to maximize returns.
 - **Rationalize Discount Policies:** Discount bands are highly skewed toward Medium/High in most segments and countries. Establish discount thresholds. Ensure large discounts are tied to volume commitments or strategic deals.
 - **Investigate Segment Performance:** The Enterprise segment shows a net loss despite substantial sales volume. Review contract terms, cost structure, and discount policies to enhance performance.
