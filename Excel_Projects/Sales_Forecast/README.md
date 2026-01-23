@@ -29,6 +29,8 @@ I applied several pre‑processing steps to ensure data accuracy and consistency
 - Replacing inconsistent values by correcting variations in product names, fixing formatting issues, and standardizing country and date formats.
 - Validating the dataset using the Column Quality and Column Profile features across all 700 rows.
 
+![Alt text](./Data%20Cleaning.jpg)
+
 ### 3. Pivot Tables & Charts
 After cleaning the dataset, I created multiple Excel PivotTables to summarize and analyze performance metrics such as:  
 - Total Net Sales
@@ -42,7 +44,9 @@ After cleaning the dataset, I created multiple Excel PivotTables to summarize an
 - Units Sold by Country
 - Cost of Goods Sold (COGS) vs Net Sales Over Time
 
-This structured pivot model ensured reliable, dynamic reporting throughout the dashboard and the pivot tables served as the data source for the KPI cards, line, bar and column charts.
+This structured pivot model ensured reliable, dynamic reporting throughout the dashboard and the pivot tables served as the data source for the KPI cards, line, bar and column charts.  
+
+![Alt text](./Pivot.jpg)
 
 ### 4. Interactive Timeline & Slicers
 To enhance user interactivity, I added a Timeline and slicers for:  
@@ -52,19 +56,23 @@ To enhance user interactivity, I added a Timeline and slicers for:
 
 These slicers allow users to filter all connected pivot tables and visuals at once, enabling quick insights and ad‑hoc exploration.
 
+![Alt text](./Slicers.jpg)
+
 ### 5. Data Visualization & Dashboard Design
 
 #### a. Descriptive Analysis    
-**i. Card Visuals:** Designed card visuals to highlight key metrics, including Total Net Sales, Total Profit, Profit Margin, and Units Sold.   
+**i. Card Visuals:** Designed card visuals to highlight key metrics, including Total Net Sales, Total Profit, Profit Margin, and Units Sold.     
 
+![Alt text](./Card%20Visuals.jpg)
 
 - Total Net sales was $118.73 M.
 - Profit totaled $16.89 M.
 - Total units sold over the period reached about 1.13M.
 - Total revenue stood at approximately $127.93 M.
 
-**ii. Column Chart:** Used a Column Chart to showcase the number of units sold per country.  
+**ii. Column Chart:** Used a Column Chart to showcase the number of units sold per country.    
 
+![Alt text](./Units_Sold%20Column_Chart.jpg)
 
 - Canada recorded the highest number of units sold, totaling 247,429.
 - France followed closely with 240,931 units sold.
