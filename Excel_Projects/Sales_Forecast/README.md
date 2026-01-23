@@ -120,8 +120,9 @@ These slicers allow users to filter all connected pivot tables and visuals at on
 - A +2% price lift adds roughly +15–17% profit across products (Amarilla +13.5%, Carretera +16.4%, Montana +15.7%, Paseo +14.9%, Velo +17.2%, VTT +14.5%).
 - With same demand, +2% to +3% price increases appear high‑leverage, while even small price cuts reduces profit.
 
-d. Dashboard  
+#### d. Dashboard  
 
+![Alt text](./Dashboard.jpg)
 
 ### 6. Recommendations  
 
