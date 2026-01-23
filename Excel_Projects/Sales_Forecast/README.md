@@ -74,7 +74,7 @@ These slicers allow users to filter all connected pivot tables and visuals at on
 
 **iii. Bar Chart:** Used a Bar Chart to compare profit amounts across segments.    
 
-![Alt text](./Profit_By_Segment%20Bar_Chart.jpg)
+![Alt text](./Profit_by_Segment%20Bar_Chart.jpg)
 
 - The Government segment recorded the highest profit at $11,388,173.
 - This was followed by Small Business, with a profit of $4,143,169.
