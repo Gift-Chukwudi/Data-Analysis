@@ -105,7 +105,9 @@ These slicers allow users to filter all connected pivot tables and visuals at on
 - The forecast range (roughly ±$600K to ±$700K around each point) captures normal historical fluctuations.
 - Dec‑2014’s unusually high profit influences the upward forecast trend into early 2015.
 
-#### c. Scenario Analysis (One-Variable Data Table)  
+#### c. Scenario Analysis (One-Variable Data Table)    
+
+![Alt text](./Scenario_Analysis.jpg)
 
 **i. Setup**
 - **Base inputs:** Avg Price per product and current Profit.
